@@ -1,20 +1,15 @@
 # dependencies
 node_modules/
 
-# rendered output (big; the finished videos live outside git)
+# rendered reel videos (big; the finished videos live outside git)
 *.mp4
 *.mov
-reels/*/voice.wav
 reels/*/_raw.*
-reels/*/_tts/
-reels/*/stills/
 reels/*/props*.json
-reels/*/cover.png
-engine/public/reel/
 
-# other creators' reels downloaded for study: keep the notes, not their videos or transcripts
-research/*
-!research/RESEARCH_NOTES.md
+# ...but keep the source clips and the reference reels kept for study
+!engine/public/clips/*.mp4
+!research/**/*.mp4
 
 # python / os
 __pycache__/

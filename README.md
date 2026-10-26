@@ -22,11 +22,13 @@ engine/            Remotion project
   public/ep02/     archive photos used in EP02 (public domain / CC, credited in POST.txt)
 reels/<episode>/   script.json (you write it), timings.json (generated), POST.txt, cover.jpg
 character/         host design rounds; the approved host is R1 (character/concepts_round4/r1.png)
-research/          RESEARCH_NOTES.md (what makes the reference reels work)
+research/          RESEARCH_NOTES.md, plus the reference reels and their transcripts (other creators' work, for study only)
 ```
 
-Not in git: the rendered `.mp4` files, voice `.wav` files, `node_modules`, and the downloaded reference reels
-(other creators' videos). Render the videos again with the steps below, or keep the originals in your own storage.
+Not in git: the finished reel videos (`reels/*/*.mp4`, some are over GitHub's 100 MB limit) and `node_modules`.
+Render the videos again with the steps below, or keep the originals in your own storage.
+
+The reference reels in `research/` belong to other creators. Keep this repo private, or delete `research/` before making it public.
 
 ## Setup (once per computer)
 
@@ -94,4 +96,3 @@ The screen content and its timed events (the highlighted commit, the chat, the s
 ## Old
 
 `reels/reel01_ai_forgets` and `engine/public/clips` are the first attempt, made with the Moon Race characters. They are not part of the series.
-The clips are not in git, so the old `Reel` composition will not render from a fresh clone.

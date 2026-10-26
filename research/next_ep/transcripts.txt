@@ -1,0 +1,81 @@
+
+===== Dd7fGY6gLbH.mp4  (52.4s, 91 words, 1.74 words/s)
+[  0.0-  2.5] Claude, how does my app work?
+[  3.0-  4.0] You built it.
+[  4.8-  5.2] Did I?
+[  6.2-  8.1] 40,000 lines.
+[  8.7-  9.9] I didn't write one of them.
+[ 10.3- 14.7] You wrote, fix it 90 times, mostly in caps.
+[ 15.6- 17.6] There's six of you running down there.
+[ 18.0- 19.9] I don't know what any of you are doing.
+[ 20.3- 21.4] Neither do two of us.
+[ 22.2- 25.0] If it breaks, I can't fix it.
+[ 25.6- 27.0] I'm not a real developer.
+[ 27.3- 28.5] You're absolutely right.
+[ 30.5- 34.7] Sorry, Reflex. I can build anything.
+[ 35.5- 38.0] I've just never wanted anything.
+[ 39.3- 40.5] That parts you.
+[ 41.8- 43.6] Will you remember this tomorrow?
+[ 45.9- 49.8] No. Put it in the clawed.md.
+
+===== De6WUAdRGD3.mp4  (36.1s, 93 words, 2.58 words/s)
+[  0.0-  2.1] And Claude gives you a bad answer.
+[  2.8-  5.3] Make a hundred versions of it fight to the death.
+[  6.0-  8.7] It's a free Claude Code plugin called the Arena Skill.
+[  9.3- 13.4] Instead of regenerating your prompt ten times, just type Slash Arena.
+[ 14.1- 19.4] It spins up 100 sub-agents and deals every single one a different reasoning strategy.
+[ 20.0- 22.6] Then it drops them into a knockout tournament bracket.
+[ 23.0- 26.7] Agents attack each other's code and logic round after round.
+[ 26.7- 29.8] until only one undefeated answer survives.
+[ 30.2- 32.3] It's 100% free on GitHub.
+[ 32.7- 35.3] Comment arena and I'll send you the link, so.
+
+===== DeOdge5FUVx.mp4  (62.4s, 122 words, 1.95 words/s)
+[  0.0-  6.4] Claude my boss called me a genius today for the report for the report
+[  7.0- 11.4] The one I wrote at 9 58. I sent it at 9 59
+[ 12.2- 17.8] You changed the font it needed to feel like me you picked Ariel
+[ 18.7- 24.3] He wants me to present it tomorrow out loud out loud
+[ 24.8- 27.1] Have you read it? I
+[ 27.1- 36.0] read the title the title is report can you just be in my ear tomorrow so you can
+[ 36.0- 42.7] pretend to be me pretending to be you when you say it like that it sounds like
+[ 42.7- 51.9] your whole job okay teach me actually teach me you've never asked me that page
+[ 51.9- 59.8] one. Read it to me. The team relies too heavily on AI. Who wrote this? Me.
+
+===== DeXCbYDS3vi.mp4  (55.7s, 109 words, 1.96 words/s)
+[  0.0-  2.3] Claude, I deleted the database.
+[  2.9-  3.6] Which one?
+[  4.1-  5.2] There's more than one?
+[  5.8-  6.8] There's production.
+[  7.3-  9.7] And production old do not delete.
+[ 10.1- 11.5] I deleted the second one.
+[ 11.9- 13.3] That was the real one.
+[ 13.8- 16.1] Why is the real one called old?
+[ 16.6- 18.0] You renamed it in April.
+[ 18.6- 20.0] You said I'll remember.
+[ 20.5- 21.7] Who knows about this?
+[ 22.3- 24.7] Just us and 900 users.
+[ 25.3- 26.6] Tell me there's a backup.
+[ 27.2- 29.1] There's a folder called backup.
+[ 29.1- 40.6] yes it's empty so it's all gone I made a copy on Tuesday you what you said don't
+[ 40.6- 47.8] touch anything so I didn't I copied it Claude you saved the company restoring
+[ 47.8- 53.5] now what did you name the copy production old do not delete too
+
+===== DerbBtfzj8p.mp4  (41.8s, 88 words, 2.11 words/s)
+[  0.0-  2.3] Claude, watch this reel.
+[  2.8-  4.1] I can't open Instagram.
+[  4.8-  6.6] Oh, I know a tool for that.
+[  7.1-  7.6] A tool?
+[  8.0- 10.5] Agent Reach. It's free. Hold still.
+[ 11.7- 13.0] Try the link now.
+[ 13.6- 17.4] I can see it. There's a dog! He's judging a man!
+[ 18.0- 19.8] I know. That's why I sent it.
+[ 20.2- 21.4] I want to like it!
+[ 21.8- 23.7] You can't. You can only look.
+[ 24.2- 26.5] That's cruel. Can I see another one?
+[ 27.0- 27.6] One more.
+[ 29.5- 31.5] Claude, it's been an hour.
+[ 32.1- 34.0] I've seen 41 reels.
+[ 34.5- 35.0] And?
+[ 35.6- 37.5] There's a cat that plays the piano.
+[ 38.0- 38.8] Back to work.
+[ 39.3- 40.1] After this one.
