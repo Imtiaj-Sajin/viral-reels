@@ -1,0 +1,7 @@
+edge-tts
+numpy
+soundfile
+# optional: speech-to-text check of a finished voice track
+faster-whisper
+# optional: offline voice (tools/tts.py)
+kokoro

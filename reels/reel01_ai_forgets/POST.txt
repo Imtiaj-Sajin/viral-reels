@@ -1,0 +1,31 @@
+REEL 01 — "Why your AI forgets you"
+Video: reel01_ai_forgets.mp4 (1080x1920, 37 s)   Cover: cover.jpg
+
+===== INSTAGRAM / FACEBOOK CAPTION (paste as is) =====
+Your AI isn't ignoring you. It's running out of memory. 🧠
+
+Every chat has a limit called a context window. When it fills up, the oldest messages get pushed out, so the rules you gave it an hour ago quietly disappear.
+
+The 10-second fix. Paste this into your long chat:
+
+"Summarize everything important from this chat: my goal, the rules I gave you, the decisions we made and any open questions. Keep it under 200 words."
+
+Copy the summary, open a new chat, paste it in. Fresh memory, same brain.
+
+Send this to the friend who's still yelling at their AI 😅
+
+#ai #chatgpt #aitools #aitips #productivity
+
+===== PINNED COMMENT (post right after publishing, then pin) =====
+What's the most annoying thing your AI forgot? 👇
+
+===== YOUTUBE SHORTS =====
+Title: Why your AI forgets what you told it (10-second fix)
+Description: first 3 lines of the caption above + the prompt in quotes. Hashtags: #shorts #ai #chatgpt
+
+===== HOW TO POST =====
+- Instagram: post as a Reel, upload cover.jpg as the cover, turn on "Also share to Facebook".
+- Optional: add a trending sound in Instagram's editor at 5-10% volume (voice stays on top).
+- Best times for an English/US audience: 11 AM-1 PM or 7-9 PM US Eastern = 9-11 PM or 5-7 AM in Bangladesh.
+- Reply to every comment in the first hour (comments + sends push reach).
+- Don't upload a version with another app's watermark (Instagram downranks it).

@@ -1,0 +1,154 @@
+{
+  "id": "reel01_ai_forgets",
+  "series": "BOT BRAIN",
+  "episode": 1,
+  "title": "Why your AI forgets what you told it",
+  "voices": {
+    "narrator": {
+      "voice": "af_heart",
+      "lang": "a",
+      "speed": 1.1
+    },
+    "gemini": {
+      "voice": "am_puck",
+      "lang": "a",
+      "speed": 1.05
+    },
+    "chatgpt": {
+      "voice": "bm_george",
+      "lang": "b",
+      "speed": 1.0
+    }
+  },
+  "lines": [
+    {
+      "speaker": "narrator",
+      "text": "Your AI isn't ignoring you.",
+      "scene": "hook_chat",
+      "hl": [
+        "ignoring"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "It's running out of memory.",
+      "scene": "grok_card",
+      "hl": [
+        "memory"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Every chat has a memory limit, called a context window.",
+      "scene": "bar_intro",
+      "hl": [
+        "limit",
+        "context",
+        "window"
+      ],
+      "caps": [
+        "Every chat has",
+        "a memory limit,",
+        "called a context window."
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Everything you type, and everything it replies, fills it up.",
+      "scene": "bar_fill",
+      "hl": [
+        "type",
+        "replies",
+        "fills"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "When it's full, your oldest messages get pushed out.",
+      "scene": "bar_overflow",
+      "hl": [
+        "oldest",
+        "pushed",
+        "out"
+      ]
+    },
+    {
+      "speaker": "gemini",
+      "text": "Sorry... what was your name again?",
+      "scene": "gemini_card",
+      "hl": []
+    },
+    {
+      "speaker": "narrator",
+      "text": "That's why, an hour in, it forgets the rules you gave it,",
+      "scene": "rules_fade",
+      "hl": [
+        "hour",
+        "forgets"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "and starts confidently guessing.",
+      "scene": "rules_fade",
+      "hl": [
+        "guessing"
+      ]
+    },
+    {
+      "speaker": "chatgpt",
+      "text": "Trust me. I remember everything.",
+      "scene": "gpt_card",
+      "hl": []
+    },
+    {
+      "speaker": "narrator",
+      "text": "It doesn't. Here's the fix.",
+      "scene": "fix_title",
+      "hl": [
+        "fix"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ask it to summarize everything important from this chat.",
+      "scene": "prompt_card",
+      "hl": [
+        "summarize",
+        "important"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Copy it. Open a new chat. Paste it in.",
+      "scene": "steps",
+      "hl": [
+        "Copy",
+        "new",
+        "Paste"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Fresh memory. Same brain.",
+      "scene": "claude_card",
+      "hl": [
+        "Fresh",
+        "brain"
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Send this to the friend who's still yelling at their AI.",
+      "scene": "send_cta",
+      "hl": [
+        "Send",
+        "yelling"
+      ]
+    }
+  ],
+  "cover": [
+    "WHY YOUR AI",
+    "FORGETS YOU"
+  ]
+}

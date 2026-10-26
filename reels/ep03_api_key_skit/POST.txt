@@ -1,0 +1,39 @@
+EP03 — "Claude, why is our cloud bill $82,000?" (3D skit, sequel to EP01)
+Video: ep03_api_key_skit.mp4 (1080x1920, 31 s)   Cover: cover.jpg
+
+===== INSTAGRAM / FACEBOOK CAPTION (paste as is) =====
+"Nobody reads the README" is not a security plan 💀
+
+Real talk:
+🔑 GitHub's own docs: once a secret is pushed, rotate it first. Deleting the commit doesn't pull it back out of forks and clones.
+🤖 23.8 million secrets leaked on public GitHub in 2024 alone (GitGuardian)
+⭐ and those 3 "fans" who starred your repo at 3 AM? 👀
+
+Keys belong on the server, in env vars, never in the frontend or the README.
+
+Tag the dev who commits "final final fix" 👇
+
+#vibecoding #claude #programmerhumor #coding #ai
+
+===== PINNED COMMENT =====
+Be honest: what's your worst commit message? Mine is "fix again" 😭
+
+===== YOUTUBE SHORTS =====
+Title: Claude, why is our cloud bill $82,000? 💀
+Description: "Nobody reads the README" is not a security plan. Rotate leaked keys first, keep secrets server-side. #shorts #programmerhumor #vibecoding
+
+===== HOW TO POST =====
+- Post as a Reel, cover.jpg as the cover, share to Facebook too.
+- There is no music in the file on purpose: add a quiet trending sound inside Instagram (5-10% volume) so the voices stay clear.
+- Skits travel through shares and tags, so the caption asks people to tag a friend. Reply to the first comments fast.
+- It's the comedy follow-up to EP01 (same $82K bill story), so you can mention "part 2" in the first comment if EP01 did well.
+
+===== NOTE =====
+The skit itself is fiction (characters, repo, commit names). The $82,314.44 on the screen is the real bill from EP01's story. The two facts in the caption are real:
+
+===== SOURCES =====
+- GitHub Docs, "Removing sensitive data from a repository": "as a first step you need to revoke and/or rotate that secret"; commits "may still be accessible elsewhere"; "You cannot remove sensitive data from other users' clones"; it stays in forks
+  https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+- GitGuardian, The State of Secrets Sprawl 2025: ~23.8 million new secrets on public GitHub in 2024 (+25% vs 2023)
+  https://blog.gitguardian.com/the-state-of-secrets-sprawl-2025/
+  https://www.helpnetsecurity.com/2025/03/19/report-the-state-of-secrets-sprawl-2025/

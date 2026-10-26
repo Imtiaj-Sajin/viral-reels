@@ -1,0 +1,112 @@
+{
+ "id": "ep03_api_key_skit",
+ "comp": "Skit",
+ "cast": {
+  "dev": {
+   "voice": "en-US-BrianMultilingualNeural",
+   "rate": "+4%"
+  },
+  "claude": {
+   "voice": "en-US-AvaMultilingualNeural",
+   "rate": "+0%"
+  }
+ },
+ "lead": 0.7,
+ "gap": 0.34,
+ "tail": 3.4,
+ "cover": [
+  "WHY IS OUR BILL",
+  "$82,000?"
+ ],
+ "lines": [
+  {
+   "who": "dev",
+   "text": "Claude... why is our cloud bill eighty-two thousand dollars?",
+   "shot": "wide",
+   "dev": "worried",
+   "cap": "Claude... why is our cloud bill $82,000?"
+  },
+  {
+   "who": "claude",
+   "text": "You put the API key in the front end.",
+   "shot": "buddy",
+   "claude": "neutral"
+  },
+  {
+   "who": "dev",
+   "text": "When?",
+   "shot": "devpunch",
+   "dev": "shocked",
+   "gesture": "hands"
+  },
+  {
+   "who": "claude",
+   "text": "In the commit called, final final fix.",
+   "shot": "screen",
+   "screen": "commits",
+   "claude": "neutral",
+   "cap": "In the commit called \"final final fix.\""
+  },
+  {
+   "who": "dev",
+   "text": "Okay. Just delete the commit.",
+   "shot": "devleft",
+   "dev": "neutral",
+   "gesture": "point"
+  },
+  {
+   "who": "claude",
+   "text": "It's public. It has three stars.",
+   "shot": "screen",
+   "screen": "stars",
+   "claude": "neutral"
+  },
+  {
+   "who": "dev",
+   "text": "We have fans?",
+   "shot": "dev",
+   "dev": "happy",
+   "pause": 0.3
+  },
+  {
+   "who": "claude",
+   "text": "They're the ones using your key.",
+   "shot": "ots",
+   "claude": "flat",
+   "pause": 0.4
+  },
+  {
+   "who": "dev",
+   "text": "Rotate it. Now.",
+   "shot": "wide",
+   "dev": "worried",
+   "gesture": "facepalm",
+   "pause": 0.9,
+   "then": "point",
+   "gAt": -0.85
+  },
+  {
+   "who": "claude",
+   "text": "Done. Where should I put the new one?",
+   "shot": "buddy2",
+   "claude": "happy"
+  },
+  {
+   "who": "dev",
+   "text": "Somewhere safe. Nobody reads the README.",
+   "shot": "devlow",
+   "dev": "smirk",
+   "gesture": "shrug",
+   "gAt": 0.9
+  },
+  {
+   "who": "claude",
+   "text": "Committing.",
+   "shot": "stare",
+   "claude": "flat",
+   "pause": 0.9
+  }
+ ],
+ "gl": "angle",
+ "concurrency": 3
+}

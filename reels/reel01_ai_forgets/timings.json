@@ -1,0 +1,1683 @@
+{
+ "duration": 36.748,
+ "lines": [
+  {
+   "i": 0,
+   "speaker": "narrator",
+   "scene": "hook_chat",
+   "text": "Your AI isn't ignoring you.",
+   "start": 0.15,
+   "end": 1.967,
+   "words": [
+    {
+     "w": "Your",
+     "start": 0.4,
+     "end": 0.562,
+     "hl": false
+    },
+    {
+     "w": "AI",
+     "start": 0.562,
+     "end": 0.975,
+     "hl": false
+    },
+    {
+     "w": "isn't",
+     "start": 0.975,
+     "end": 1.212,
+     "hl": false
+    },
+    {
+     "w": "ignoring",
+     "start": 1.212,
+     "end": 1.7,
+     "hl": true
+    },
+    {
+     "w": "you.",
+     "start": 1.7,
+     "end": 2.1,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "speaker": "narrator",
+   "scene": "grok_card",
+   "text": "It's running out of memory.",
+   "start": 2.107,
+   "end": 3.59,
+   "words": [
+    {
+     "w": "It's",
+     "start": 2.332,
+     "end": 2.557,
+     "hl": false
+    },
+    {
+     "w": "running",
+     "start": 2.557,
+     "end": 2.845,
+     "hl": false
+    },
+    {
+     "w": "out",
+     "start": 2.845,
+     "end": 2.97,
+     "hl": false
+    },
+    {
+     "w": "of",
+     "start": 2.97,
+     "end": 3.057,
+     "hl": false
+    },
+    {
+     "w": "memory.",
+     "start": 3.057,
+     "end": 3.707,
+     "hl": true
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "speaker": "narrator",
+   "scene": "bar_intro",
+   "text": "Every chat has a memory limit, called a context window.",
+   "start": 3.73,
+   "end": 7.15,
+   "words": [
+    {
+     "w": "Every",
+     "start": 3.98,
+     "end": 4.268,
+     "hl": false
+    },
+    {
+     "w": "chat",
+     "start": 4.268,
+     "end": 4.555,
+     "hl": false
+    },
+    {
+     "w": "has",
+     "start": 4.555,
+     "end": 4.718,
+     "hl": false
+    },
+    {
+     "w": "a",
+     "start": 4.718,
+     "end": 4.78,
+     "hl": false
+    },
+    {
+     "w": "memory",
+     "start": 4.78,
+     "end": 5.155,
+     "hl": false
+    },
+    {
+     "w": "limit,",
+     "start": 5.155,
+     "end": 5.63,
+     "hl": true
+    },
+    {
+     "w": "called",
+     "start": 5.73,
+     "end": 5.993,
+     "hl": false
+    },
+    {
+     "w": "a",
+     "start": 5.993,
+     "end": 6.055,
+     "hl": false
+    },
+    {
+     "w": "context",
+     "start": 6.055,
+     "end": 6.655,
+     "hl": true
+    },
+    {
+     "w": "window.",
+     "start": 6.655,
+     "end": 7.305,
+     "hl": true
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "speaker": "narrator",
+   "scene": "bar_fill",
+   "text": "Everything you type, and everything it replies, fills it up.",
+   "start": 7.29,
+   "end": 10.475,
+   "words": [
+    {
+     "w": "Everything",
+     "start": 7.54,
+     "end": 7.965,
+     "hl": false
+    },
+    {
+     "w": "you",
+     "start": 7.965,
+     "end": 8.115,
+     "hl": false
+    },
+    {
+     "w": "type,",
+     "start": 8.115,
+     "end": 8.615,
+     "hl": true
+    },
+    {
+     "w": "and",
+     "start": 8.715,
+     "end": 8.84,
+     "hl": false
+    },
+    {
+     "w": "everything",
+     "start": 8.84,
+     "end": 9.228,
+     "hl": false
+    },
+    {
+     "w": "it",
+     "start": 9.228,
+     "end": 9.303,
+     "hl": false
+    },
+    {
+     "w": "replies,",
+     "start": 9.303,
+     "end": 9.79,
+     "hl": true
+    },
+    {
+     "w": "fills",
+     "start": 9.84,
+     "end": 10.078,
+     "hl": true
+    },
+    {
+     "w": "it",
+     "start": 10.078,
+     "end": 10.153,
+     "hl": false
+    },
+    {
+     "w": "up.",
+     "start": 10.153,
+     "end": 10.59,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "speaker": "narrator",
+   "scene": "bar_overflow",
+   "text": "When it's full, your oldest messages get pushed out.",
+   "start": 10.615,
+   "end": 13.417,
+   "words": [
+    {
+     "w": "When",
+     "start": 10.84,
+     "end": 10.952,
+     "hl": false
+    },
+    {
+     "w": "it's",
+     "start": 10.952,
+     "end": 11.115,
+     "hl": false
+    },
+    {
+     "w": "full,",
+     "start": 11.115,
+     "end": 11.515,
+     "hl": false
+    },
+    {
+     "w": "your",
+     "start": 11.59,
+     "end": 11.74,
+     "hl": false
+    },
+    {
+     "w": "oldest",
+     "start": 11.74,
+     "end": 12.115,
+     "hl": true
+    },
+    {
+     "w": "messages",
+     "start": 12.115,
+     "end": 12.64,
+     "hl": false
+    },
+    {
+     "w": "get",
+     "start": 12.64,
+     "end": 12.79,
+     "hl": false
+    },
+    {
+     "w": "pushed",
+     "start": 12.79,
+     "end": 13.065,
+     "hl": true
+    },
+    {
+     "w": "out.",
+     "start": 13.065,
+     "end": 13.54,
+     "hl": true
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "speaker": "gemini",
+   "scene": "gemini_card",
+   "text": "Sorry... what was your name again?",
+   "start": 13.697,
+   "end": 15.21,
+   "words": [
+    {
+     "w": "Sorry...",
+     "start": 13.872,
+     "end": 14.172,
+     "hl": false
+    },
+    {
+     "w": "what",
+     "start": 14.259,
+     "end": 14.384,
+     "hl": false
+    },
+    {
+     "w": "was",
+     "start": 14.384,
+     "end": 14.484,
+     "hl": false
+    },
+    {
+     "w": "your",
+     "start": 14.484,
+     "end": 14.584,
+     "hl": false
+    },
+    {
+     "w": "name",
+     "start": 14.584,
+     "end": 14.759,
+     "hl": false
+    },
+    {
+     "w": "again?",
+     "start": 14.759,
+     "end": 15.447,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "speaker": "narrator",
+   "scene": "rules_fade",
+   "text": "That's why, an hour in, it forgets the rules you gave it,",
+   "start": 15.49,
+   "end": 18.751,
+   "words": [
+    {
+     "w": "That's",
+     "start": 15.74,
+     "end": 16.04,
+     "hl": false
+    },
+    {
+     "w": "why,",
+     "start": 16.04,
+     "end": 16.29,
+     "hl": false
+    },
+    {
+     "w": "an",
+     "start": 16.328,
+     "end": 16.453,
+     "hl": false
+    },
+    {
+     "w": "hour",
+     "start": 16.453,
+     "end": 16.74,
+     "hl": true
+    },
+    {
+     "w": "in,",
+     "start": 16.74,
+     "end": 17.115,
+     "hl": false
+    },
+    {
+     "w": "it",
+     "start": 17.215,
+     "end": 17.34,
+     "hl": false
+    },
+    {
+     "w": "forgets",
+     "start": 17.34,
+     "end": 17.74,
+     "hl": true
+    },
+    {
+     "w": "the",
+     "start": 17.74,
+     "end": 17.84,
+     "hl": false
+    },
+    {
+     "w": "rules",
+     "start": 17.84,
+     "end": 18.153,
+     "hl": false
+    },
+    {
+     "w": "you",
+     "start": 18.153,
+     "end": 18.24,
+     "hl": false
+    },
+    {
+     "w": "gave",
+     "start": 18.24,
+     "end": 18.49,
+     "hl": false
+    },
+    {
+     "w": "it,",
+     "start": 18.49,
+     "end": 18.865,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "speaker": "narrator",
+   "scene": "rules_fade",
+   "text": "and starts confidently guessing.",
+   "start": 18.891,
+   "end": 20.709,
+   "words": [
+    {
+     "w": "and",
+     "start": 19.141,
+     "end": 19.241,
+     "hl": false
+    },
+    {
+     "w": "starts",
+     "start": 19.241,
+     "end": 19.591,
+     "hl": false
+    },
+    {
+     "w": "confidently",
+     "start": 19.591,
+     "end": 20.166,
+     "hl": false
+    },
+    {
+     "w": "guessing.",
+     "start": 20.166,
+     "end": 20.841,
+     "hl": true
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "speaker": "chatgpt",
+   "scene": "gpt_card",
+   "text": "Trust me. I remember everything.",
+   "start": 20.989,
+   "end": 23.396,
+   "words": [
+    {
+     "w": "Trust",
+     "start": 21.215,
+     "end": 21.564,
+     "hl": false
+    },
+    {
+     "w": "me.",
+     "start": 21.564,
+     "end": 21.814,
+     "hl": false
+    },
+    {
+     "w": "I",
+     "start": 21.889,
+     "end": 22.04,
+     "hl": false
+    },
+    {
+     "w": "remember",
+     "start": 22.04,
+     "end": 22.614,
+     "hl": false
+    },
+    {
+     "w": "everything.",
+     "start": 22.614,
+     "end": 23.564,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "speaker": "narrator",
+   "scene": "fix_title",
+   "text": "It doesn't. Here's the fix.",
+   "start": 23.676,
+   "end": 25.33,
+   "words": [
+    {
+     "w": "It",
+     "start": 23.901,
+     "end": 24.026,
+     "hl": false
+    },
+    {
+     "w": "doesn't.",
+     "start": 24.026,
+     "end": 24.401,
+     "hl": false
+    },
+    {
+     "w": "Here's",
+     "start": 24.451,
+     "end": 24.689,
+     "hl": false
+    },
+    {
+     "w": "the",
+     "start": 24.689,
+     "end": 24.789,
+     "hl": false
+    },
+    {
+     "w": "fix.",
+     "start": 24.789,
+     "end": 25.401,
+     "hl": true
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "speaker": "narrator",
+   "scene": "prompt_card",
+   "text": "Ask it to summarize everything important from this chat.",
+   "start": 25.47,
+   "end": 28.503,
+   "words": [
+    {
+     "w": "Ask",
+     "start": 25.745,
+     "end": 25.957,
+     "hl": false
+    },
+    {
+     "w": "it",
+     "start": 25.957,
+     "end": 26.045,
+     "hl": false
+    },
+    {
+     "w": "to",
+     "start": 26.045,
+     "end": 26.182,
+     "hl": false
+    },
+    {
+     "w": "summarize",
+     "start": 26.182,
+     "end": 26.832,
+     "hl": true
+    },
+    {
+     "w": "everything",
+     "start": 26.832,
+     "end": 27.32,
+     "hl": false
+    },
+    {
+     "w": "important",
+     "start": 27.32,
+     "end": 27.87,
+     "hl": true
+    },
+    {
+     "w": "from",
+     "start": 27.87,
+     "end": 28.007,
+     "hl": false
+    },
+    {
+     "w": "this",
+     "start": 28.007,
+     "end": 28.17,
+     "hl": false
+    },
+    {
+     "w": "chat.",
+     "start": 28.17,
+     "end": 28.695,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "speaker": "narrator",
+   "scene": "steps",
+   "text": "Copy it. Open a new chat. Paste it in.",
+   "start": 28.643,
+   "end": 31.006,
+   "words": [
+    {
+     "w": "Copy",
+     "start": 28.893,
+     "end": 29.218,
+     "hl": true
+    },
+    {
+     "w": "it.",
+     "start": 29.218,
+     "end": 29.343,
+     "hl": false
+    },
+    {
+     "w": "Open",
+     "start": 29.393,
+     "end": 29.631,
+     "hl": false
+    },
+    {
+     "w": "a",
+     "start": 29.631,
+     "end": 29.693,
+     "hl": false
+    },
+    {
+     "w": "new",
+     "start": 29.693,
+     "end": 29.868,
+     "hl": true
+    },
+    {
+     "w": "chat.",
+     "start": 29.868,
+     "end": 30.243,
+     "hl": false
+    },
+    {
+     "w": "Paste",
+     "start": 30.318,
+     "end": 30.606,
+     "hl": true
+    },
+    {
+     "w": "it",
+     "start": 30.606,
+     "end": 30.681,
+     "hl": false
+    },
+    {
+     "w": "in.",
+     "start": 30.681,
+     "end": 31.118,
+     "hl": false
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "speaker": "narrator",
+   "scene": "claude_card",
+   "text": "Fresh memory. Same brain.",
+   "start": 31.146,
+   "end": 33.041,
+   "words": [
+    {
+     "w": "Fresh",
+     "start": 31.396,
+     "end": 31.646,
+     "hl": true
+    },
+    {
+     "w": "memory.",
+     "start": 31.646,
+     "end": 32.121,
+     "hl": false
+    },
+    {
+     "w": "Same",
+     "start": 32.234,
+     "end": 32.521,
+     "hl": false
+    },
+    {
+     "w": "brain.",
+     "start": 32.521,
+     "end": 33.171,
+     "hl": true
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "speaker": "narrator",
+   "scene": "send_cta",
+   "text": "Send this to the friend who's still yelling at their AI.",
+   "start": 33.181,
+   "end": 36.148,
+   "words": [
+    {
+     "w": "Send",
+     "start": 33.456,
+     "end": 33.644,
+     "hl": true
+    },
+    {
+     "w": "this",
+     "start": 33.644,
+     "end": 33.806,
+     "hl": false
+    },
+    {
+     "w": "to",
+     "start": 33.806,
+     "end": 33.894,
+     "hl": false
+    },
+    {
+     "w": "the",
+     "start": 33.894,
+     "end": 33.981,
+     "hl": false
+    },
+    {
+     "w": "friend",
+     "start": 33.981,
+     "end": 34.569,
+     "hl": false
+    },
+    {
+     "w": "who's",
+     "start": 34.569,
+     "end": 34.756,
+     "hl": false
+    },
+    {
+     "w": "still",
+     "start": 34.756,
+     "end": 35.031,
+     "hl": false
+    },
+    {
+     "w": "yelling",
+     "start": 35.031,
+     "end": 35.369,
+     "hl": true
+    },
+    {
+     "w": "at",
+     "start": 35.369,
+     "end": 35.444,
+     "hl": false
+    },
+    {
+     "w": "their",
+     "start": 35.444,
+     "end": 35.619,
+     "hl": false
+    },
+    {
+     "w": "AI.",
+     "start": 35.619,
+     "end": 36.306,
+     "hl": false
+    }
+   ]
+  }
+ ],
+ "captions": [
+  {
+   "line": 0,
+   "speaker": "narrator",
+   "start": 0.4,
+   "words": [
+    {
+     "w": "Your",
+     "start": 0.4,
+     "end": 0.562,
+     "hl": false
+    },
+    {
+     "w": "AI",
+     "start": 0.562,
+     "end": 0.975,
+     "hl": false
+    },
+    {
+     "w": "isn't",
+     "start": 0.975,
+     "end": 1.212,
+     "hl": false
+    }
+   ],
+   "end": 1.212
+  },
+  {
+   "line": 0,
+   "speaker": "narrator",
+   "start": 1.212,
+   "words": [
+    {
+     "w": "ignoring",
+     "start": 1.212,
+     "end": 1.7,
+     "hl": true
+    },
+    {
+     "w": "you.",
+     "start": 1.7,
+     "end": 2.1,
+     "hl": false
+    }
+   ],
+   "end": 2.332
+  },
+  {
+   "line": 1,
+   "speaker": "narrator",
+   "start": 2.332,
+   "words": [
+    {
+     "w": "It's",
+     "start": 2.332,
+     "end": 2.557,
+     "hl": false
+    },
+    {
+     "w": "running",
+     "start": 2.557,
+     "end": 2.845,
+     "hl": false
+    },
+    {
+     "w": "out",
+     "start": 2.845,
+     "end": 2.97,
+     "hl": false
+    }
+   ],
+   "end": 2.97
+  },
+  {
+   "line": 1,
+   "speaker": "narrator",
+   "start": 2.97,
+   "words": [
+    {
+     "w": "of",
+     "start": 2.97,
+     "end": 3.057,
+     "hl": false
+    },
+    {
+     "w": "memory.",
+     "start": 3.057,
+     "end": 3.707,
+     "hl": true
+    }
+   ],
+   "end": 3.98
+  },
+  {
+   "line": 2,
+   "speaker": "narrator",
+   "start": 3.98,
+   "words": [
+    {
+     "w": "Every",
+     "start": 3.98,
+     "end": 4.268,
+     "hl": false
+    },
+    {
+     "w": "chat",
+     "start": 4.268,
+     "end": 4.555,
+     "hl": false
+    },
+    {
+     "w": "has",
+     "start": 4.555,
+     "end": 4.718,
+     "hl": false
+    }
+   ],
+   "end": 4.718
+  },
+  {
+   "line": 2,
+   "speaker": "narrator",
+   "start": 4.718,
+   "words": [
+    {
+     "w": "a",
+     "start": 4.718,
+     "end": 4.78,
+     "hl": false
+    },
+    {
+     "w": "memory",
+     "start": 4.78,
+     "end": 5.155,
+     "hl": false
+    },
+    {
+     "w": "limit,",
+     "start": 5.155,
+     "end": 5.63,
+     "hl": true
+    }
+   ],
+   "end": 5.73
+  },
+  {
+   "line": 2,
+   "speaker": "narrator",
+   "start": 5.73,
+   "words": [
+    {
+     "w": "called",
+     "start": 5.73,
+     "end": 5.993,
+     "hl": false
+    },
+    {
+     "w": "a",
+     "start": 5.993,
+     "end": 6.055,
+     "hl": false
+    },
+    {
+     "w": "context",
+     "start": 6.055,
+     "end": 6.655,
+     "hl": true
+    },
+    {
+     "w": "window.",
+     "start": 6.655,
+     "end": 7.305,
+     "hl": true
+    }
+   ],
+   "end": 7.54
+  },
+  {
+   "line": 3,
+   "speaker": "narrator",
+   "start": 7.54,
+   "words": [
+    {
+     "w": "Everything",
+     "start": 7.54,
+     "end": 7.965,
+     "hl": false
+    },
+    {
+     "w": "you",
+     "start": 7.965,
+     "end": 8.115,
+     "hl": false
+    },
+    {
+     "w": "type,",
+     "start": 8.115,
+     "end": 8.615,
+     "hl": true
+    }
+   ],
+   "end": 8.715
+  },
+  {
+   "line": 3,
+   "speaker": "narrator",
+   "start": 8.715,
+   "words": [
+    {
+     "w": "and",
+     "start": 8.715,
+     "end": 8.84,
+     "hl": false
+    },
+    {
+     "w": "everything",
+     "start": 8.84,
+     "end": 9.228,
+     "hl": false
+    },
+    {
+     "w": "it",
+     "start": 9.228,
+     "end": 9.303,
+     "hl": false
+    },
+    {
+     "w": "replies,",
+     "start": 9.303,
+     "end": 9.79,
+     "hl": true
+    }
+   ],
+   "end": 9.84
+  },
+  {
+   "line": 3,
+   "speaker": "narrator",
+   "start": 9.84,
+   "words": [
+    {
+     "w": "fills",
+     "start": 9.84,
+     "end": 10.078,
+     "hl": true
+    },
+    {
+     "w": "it",
+     "start": 10.078,
+     "end": 10.153,
+     "hl": false
+    },
+    {
+     "w": "up.",
+     "start": 10.153,
+     "end": 10.59,
+     "hl": false
+    }
+   ],
+   "end": 10.84
+  },
+  {
+   "line": 4,
+   "speaker": "narrator",
+   "start": 10.84,
+   "words": [
+    {
+     "w": "When",
+     "start": 10.84,
+     "end": 10.952,
+     "hl": false
+    },
+    {
+     "w": "it's",
+     "start": 10.952,
+     "end": 11.115,
+     "hl": false
+    },
+    {
+     "w": "full,",
+     "start": 11.115,
+     "end": 11.515,
+     "hl": false
+    }
+   ],
+   "end": 11.59
+  },
+  {
+   "line": 4,
+   "speaker": "narrator",
+   "start": 11.59,
+   "words": [
+    {
+     "w": "your",
+     "start": 11.59,
+     "end": 11.74,
+     "hl": false
+    },
+    {
+     "w": "oldest",
+     "start": 11.74,
+     "end": 12.115,
+     "hl": true
+    },
+    {
+     "w": "messages",
+     "start": 12.115,
+     "end": 12.64,
+     "hl": false
+    }
+   ],
+   "end": 12.64
+  },
+  {
+   "line": 4,
+   "speaker": "narrator",
+   "start": 12.64,
+   "words": [
+    {
+     "w": "get",
+     "start": 12.64,
+     "end": 12.79,
+     "hl": false
+    },
+    {
+     "w": "pushed",
+     "start": 12.79,
+     "end": 13.065,
+     "hl": true
+    },
+    {
+     "w": "out.",
+     "start": 13.065,
+     "end": 13.54,
+     "hl": true
+    }
+   ],
+   "end": 13.872
+  },
+  {
+   "line": 5,
+   "speaker": "gemini",
+   "start": 13.872,
+   "words": [
+    {
+     "w": "Sorry...",
+     "start": 13.872,
+     "end": 14.172,
+     "hl": false
+    }
+   ],
+   "end": 14.259
+  },
+  {
+   "line": 5,
+   "speaker": "gemini",
+   "start": 14.259,
+   "words": [
+    {
+     "w": "what",
+     "start": 14.259,
+     "end": 14.384,
+     "hl": false
+    },
+    {
+     "w": "was",
+     "start": 14.384,
+     "end": 14.484,
+     "hl": false
+    },
+    {
+     "w": "your",
+     "start": 14.484,
+     "end": 14.584,
+     "hl": false
+    },
+    {
+     "w": "name",
+     "start": 14.584,
+     "end": 14.759,
+     "hl": false
+    }
+   ],
+   "end": 14.759
+  },
+  {
+   "line": 5,
+   "speaker": "gemini",
+   "start": 14.759,
+   "words": [
+    {
+     "w": "again?",
+     "start": 14.759,
+     "end": 15.447,
+     "hl": false
+    }
+   ],
+   "end": 15.74
+  },
+  {
+   "line": 6,
+   "speaker": "narrator",
+   "start": 15.74,
+   "words": [
+    {
+     "w": "That's",
+     "start": 15.74,
+     "end": 16.04,
+     "hl": false
+    },
+    {
+     "w": "why,",
+     "start": 16.04,
+     "end": 16.29,
+     "hl": false
+    }
+   ],
+   "end": 16.328
+  },
+  {
+   "line": 6,
+   "speaker": "narrator",
+   "start": 16.328,
+   "words": [
+    {
+     "w": "an",
+     "start": 16.328,
+     "end": 16.453,
+     "hl": false
+    },
+    {
+     "w": "hour",
+     "start": 16.453,
+     "end": 16.74,
+     "hl": true
+    },
+    {
+     "w": "in,",
+     "start": 16.74,
+     "end": 17.115,
+     "hl": false
+    }
+   ],
+   "end": 17.215
+  },
+  {
+   "line": 6,
+   "speaker": "narrator",
+   "start": 17.215,
+   "words": [
+    {
+     "w": "it",
+     "start": 17.215,
+     "end": 17.34,
+     "hl": false
+    },
+    {
+     "w": "forgets",
+     "start": 17.34,
+     "end": 17.74,
+     "hl": true
+    },
+    {
+     "w": "the",
+     "start": 17.74,
+     "end": 17.84,
+     "hl": false
+    },
+    {
+     "w": "rules",
+     "start": 17.84,
+     "end": 18.153,
+     "hl": false
+    }
+   ],
+   "end": 18.153
+  },
+  {
+   "line": 6,
+   "speaker": "narrator",
+   "start": 18.153,
+   "words": [
+    {
+     "w": "you",
+     "start": 18.153,
+     "end": 18.24,
+     "hl": false
+    },
+    {
+     "w": "gave",
+     "start": 18.24,
+     "end": 18.49,
+     "hl": false
+    },
+    {
+     "w": "it,",
+     "start": 18.49,
+     "end": 18.865,
+     "hl": false
+    }
+   ],
+   "end": 19.141
+  },
+  {
+   "line": 7,
+   "speaker": "narrator",
+   "start": 19.141,
+   "words": [
+    {
+     "w": "and",
+     "start": 19.141,
+     "end": 19.241,
+     "hl": false
+    },
+    {
+     "w": "starts",
+     "start": 19.241,
+     "end": 19.591,
+     "hl": false
+    },
+    {
+     "w": "confidently",
+     "start": 19.591,
+     "end": 20.166,
+     "hl": false
+    },
+    {
+     "w": "guessing.",
+     "start": 20.166,
+     "end": 20.841,
+     "hl": true
+    }
+   ],
+   "end": 21.215
+  },
+  {
+   "line": 8,
+   "speaker": "chatgpt",
+   "start": 21.215,
+   "words": [
+    {
+     "w": "Trust",
+     "start": 21.215,
+     "end": 21.564,
+     "hl": false
+    },
+    {
+     "w": "me.",
+     "start": 21.564,
+     "end": 21.814,
+     "hl": false
+    }
+   ],
+   "end": 21.889
+  },
+  {
+   "line": 8,
+   "speaker": "chatgpt",
+   "start": 21.889,
+   "words": [
+    {
+     "w": "I",
+     "start": 21.889,
+     "end": 22.04,
+     "hl": false
+    },
+    {
+     "w": "remember",
+     "start": 22.04,
+     "end": 22.614,
+     "hl": false
+    },
+    {
+     "w": "everything.",
+     "start": 22.614,
+     "end": 23.564,
+     "hl": false
+    }
+   ],
+   "end": 23.901
+  },
+  {
+   "line": 9,
+   "speaker": "narrator",
+   "start": 23.901,
+   "words": [
+    {
+     "w": "It",
+     "start": 23.901,
+     "end": 24.026,
+     "hl": false
+    },
+    {
+     "w": "doesn't.",
+     "start": 24.026,
+     "end": 24.401,
+     "hl": false
+    }
+   ],
+   "end": 24.451
+  },
+  {
+   "line": 9,
+   "speaker": "narrator",
+   "start": 24.451,
+   "words": [
+    {
+     "w": "Here's",
+     "start": 24.451,
+     "end": 24.689,
+     "hl": false
+    },
+    {
+     "w": "the",
+     "start": 24.689,
+     "end": 24.789,
+     "hl": false
+    },
+    {
+     "w": "fix.",
+     "start": 24.789,
+     "end": 25.401,
+     "hl": true
+    }
+   ],
+   "end": 25.745
+  },
+  {
+   "line": 10,
+   "speaker": "narrator",
+   "start": 25.745,
+   "words": [
+    {
+     "w": "Ask",
+     "start": 25.745,
+     "end": 25.957,
+     "hl": false
+    },
+    {
+     "w": "it",
+     "start": 25.957,
+     "end": 26.045,
+     "hl": false
+    },
+    {
+     "w": "to",
+     "start": 26.045,
+     "end": 26.182,
+     "hl": false
+    },
+    {
+     "w": "summarize",
+     "start": 26.182,
+     "end": 26.832,
+     "hl": true
+    }
+   ],
+   "end": 26.832
+  },
+  {
+   "line": 10,
+   "speaker": "narrator",
+   "start": 26.832,
+   "words": [
+    {
+     "w": "everything",
+     "start": 26.832,
+     "end": 27.32,
+     "hl": false
+    },
+    {
+     "w": "important",
+     "start": 27.32,
+     "end": 27.87,
+     "hl": true
+    }
+   ],
+   "end": 27.87
+  },
+  {
+   "line": 10,
+   "speaker": "narrator",
+   "start": 27.87,
+   "words": [
+    {
+     "w": "from",
+     "start": 27.87,
+     "end": 28.007,
+     "hl": false
+    },
+    {
+     "w": "this",
+     "start": 28.007,
+     "end": 28.17,
+     "hl": false
+    },
+    {
+     "w": "chat.",
+     "start": 28.17,
+     "end": 28.695,
+     "hl": false
+    }
+   ],
+   "end": 28.893
+  },
+  {
+   "line": 11,
+   "speaker": "narrator",
+   "start": 28.893,
+   "words": [
+    {
+     "w": "Copy",
+     "start": 28.893,
+     "end": 29.218,
+     "hl": true
+    },
+    {
+     "w": "it.",
+     "start": 29.218,
+     "end": 29.343,
+     "hl": false
+    }
+   ],
+   "end": 29.393
+  },
+  {
+   "line": 11,
+   "speaker": "narrator",
+   "start": 29.393,
+   "words": [
+    {
+     "w": "Open",
+     "start": 29.393,
+     "end": 29.631,
+     "hl": false
+    },
+    {
+     "w": "a",
+     "start": 29.631,
+     "end": 29.693,
+     "hl": false
+    },
+    {
+     "w": "new",
+     "start": 29.693,
+     "end": 29.868,
+     "hl": true
+    },
+    {
+     "w": "chat.",
+     "start": 29.868,
+     "end": 30.243,
+     "hl": false
+    }
+   ],
+   "end": 30.318
+  },
+  {
+   "line": 11,
+   "speaker": "narrator",
+   "start": 30.318,
+   "words": [
+    {
+     "w": "Paste",
+     "start": 30.318,
+     "end": 30.606,
+     "hl": true
+    },
+    {
+     "w": "it",
+     "start": 30.606,
+     "end": 30.681,
+     "hl": false
+    },
+    {
+     "w": "in.",
+     "start": 30.681,
+     "end": 31.118,
+     "hl": false
+    }
+   ],
+   "end": 31.396
+  },
+  {
+   "line": 12,
+   "speaker": "narrator",
+   "start": 31.396,
+   "words": [
+    {
+     "w": "Fresh",
+     "start": 31.396,
+     "end": 31.646,
+     "hl": true
+    },
+    {
+     "w": "memory.",
+     "start": 31.646,
+     "end": 32.121,
+     "hl": false
+    }
+   ],
+   "end": 32.234
+  },
+  {
+   "line": 12,
+   "speaker": "narrator",
+   "start": 32.234,
+   "words": [
+    {
+     "w": "Same",
+     "start": 32.234,
+     "end": 32.521,
+     "hl": false
+    },
+    {
+     "w": "brain.",
+     "start": 32.521,
+     "end": 33.171,
+     "hl": true
+    }
+   ],
+   "end": 33.456
+  },
+  {
+   "line": 13,
+   "speaker": "narrator",
+   "start": 33.456,
+   "words": [
+    {
+     "w": "Send",
+     "start": 33.456,
+     "end": 33.644,
+     "hl": true
+    },
+    {
+     "w": "this",
+     "start": 33.644,
+     "end": 33.806,
+     "hl": false
+    },
+    {
+     "w": "to",
+     "start": 33.806,
+     "end": 33.894,
+     "hl": false
+    },
+    {
+     "w": "the",
+     "start": 33.894,
+     "end": 33.981,
+     "hl": false
+    },
+    {
+     "w": "friend",
+     "start": 33.981,
+     "end": 34.569,
+     "hl": false
+    }
+   ],
+   "end": 34.569
+  },
+  {
+   "line": 13,
+   "speaker": "narrator",
+   "start": 34.569,
+   "words": [
+    {
+     "w": "who's",
+     "start": 34.569,
+     "end": 34.756,
+     "hl": false
+    },
+    {
+     "w": "still",
+     "start": 34.756,
+     "end": 35.031,
+     "hl": false
+    },
+    {
+     "w": "yelling",
+     "start": 35.031,
+     "end": 35.369,
+     "hl": true
+    }
+   ],
+   "end": 35.369
+  },
+  {
+   "line": 13,
+   "speaker": "narrator",
+   "start": 35.369,
+   "words": [
+    {
+     "w": "at",
+     "start": 35.369,
+     "end": 35.444,
+     "hl": false
+    },
+    {
+     "w": "their",
+     "start": 35.444,
+     "end": 35.619,
+     "hl": false
+    },
+    {
+     "w": "AI.",
+     "start": 35.619,
+     "end": 36.306,
+     "hl": false
+    }
+   ],
+   "end": 36.748
+  }
+ ]
+}

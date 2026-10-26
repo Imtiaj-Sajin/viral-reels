@@ -1,0 +1,45 @@
+EP01 — "Google said this key was safe" ($82,314 API key bill)
+Video: ep01_api_key_bill.mp4 (1080x1920, 64 s)   Cover: cover.jpg
+
+===== INSTAGRAM / FACEBOOK CAPTION (paste as is) =====
+A 3-person startup pays Google ~$180 a month. In 48 hours their bill hit $82,314.
+
+Not a hack of Google. Just a key that was never supposed to be secret:
+🔑 Maps/Firebase keys start with "AIza" and were designed to sit in your website's code
+✨ turn on the Gemini API in the same project and that public key can now call Gemini, billed to you
+🌍 researchers found 2,863 of these keys live on public websites
+⚙️ new keys are "Don't restrict key" by default
+📉 spend caps lag: Google's own docs say billing data can be delayed ~10 minutes and "you may experience overages beyond your project cap"
+🗄️ Supabase with Row Level Security off = anyone can read your users table (170+ Lovable apps shipped like that)
+
+Google's answer to the $82K bill: "shared responsibility."
+
+The fix is one prompt. Send this video to Claude, or paste this:
+
+"Audit my app for exposed API keys and fix every issue: move every secret to the server, restrict each Google key to only the API it needs and only my domain, turn on Row Level Security on every Supabase table, and set a hard spending cap. List each change and the file it touched."
+
+Following me is cheaper than your next API bill 🤝
+
+#vibecoding #claude #ai #gemini #startup
+
+===== PINNED COMMENT =====
+Check your project right now: Google Cloud Console → APIs & Services → Credentials. Any key that says "None" under restrictions? 👀
+
+===== YOUTUBE SHORTS =====
+Title: Google said this key was safe. Then it cost $82,314.
+Description: first two lines of the caption + the prompt. #shorts #vibecoding #ai
+
+===== HOW TO POST =====
+- Post as a Reel, upload cover.jpg as the cover, turn on "Also share to Facebook".
+- English/US audience: 9-11 PM Bangladesh time (11 AM-1 PM US Eastern) or 5-7 AM BD (7-9 PM ET).
+- Reply to every comment in the first hour.
+
+===== SOURCES (keep, in case anyone asks) =====
+- $82,314.44 in 48 h, Mexico startup, ~$180/mo, Google cited shared responsibility: The Register, 3 Mar 2026
+  https://www.theregister.com/security/2026/03/03/dev-stunned-by-82k-gemini-api-key-bill-after-theft/4925029
+- 2,863 live keys, unrestricted by default: Truffle Security
+  https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+- Spend caps experimental, ~10 min billing delay, "overages beyond your project cap": Google Gemini API billing docs
+  https://ai.google.dev/gemini-api/docs/billing
+- 170+ Lovable apps, Row Level Security misconfigured: CVE-2025-48757 (Lovable disputes responsibility)
+  https://www.tenable.com/cve/CVE-2025-48757

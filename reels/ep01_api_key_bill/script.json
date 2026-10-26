@@ -1,0 +1,187 @@
+{
+  "id": "ep01_api_key_bill",
+  "episode": 1,
+  "voice": "en-US-BrianMultilingualNeural",
+  "rate": "+18%",
+  "gap": 0.12,
+  "tally_label": "YOUR BILL",
+  "cover": [
+    "GOOGLE SAID",
+    "THIS KEY WAS",
+    "SAFE."
+  ],
+  "lines": [
+    {
+      "text": "A three-person startup pays Google about a hundred and eighty dollars a month.",
+      "scene": "receipt",
+      "section": "01 - the bill",
+      "hl": [
+        "hundred",
+        "eighty"
+      ],
+      "mood": "neutral",
+      "tally": 180
+    },
+    {
+      "text": "In forty-eight hours, their bill hit eighty-two thousand.",
+      "scene": "bignum",
+      "section": "01 - the bill",
+      "hl": [
+        "eighty-two",
+        "thousand"
+      ],
+      "mood": "shocked",
+      "gesture": "hands",
+      "tally": 82314
+    },
+    {
+      "text": "Your app can do the same, and one prompt stops it. I'll give it to you at the end.",
+      "scene": "prompt_locked",
+      "section": "01 - the bill",
+      "hl": [
+        "prompt",
+        "end"
+      ],
+      "mood": "smirk",
+      "gesture": "point"
+    },
+    {
+      "text": "It starts with a key that begins with A, I, Z, A.",
+      "scene": "code_key",
+      "section": "02 - the key",
+      "hl": [
+        "key"
+      ],
+      "mood": "neutral",
+      "bg": "red",
+      "pause": 0.22
+    },
+    {
+      "text": "Google Maps and Firebase keys look exactly like it. And Google designed them to be public, right in your website's code.",
+      "scene": "public_ok",
+      "section": "02 - the key",
+      "hl": [
+        "public"
+      ],
+      "mood": "neutral",
+      "gesture": "palm"
+    },
+    {
+      "text": "Then Gemini showed up.",
+      "scene": "flash",
+      "section": "03 - the switch",
+      "hl": [
+        "Gemini"
+      ],
+      "mood": "smirk",
+      "bg": "ink",
+      "pause": 0.22
+    },
+    {
+      "text": "Turn on the Gemini API in that same project, and the public key can now call Gemini. On your card.",
+      "scene": "toggle",
+      "section": "03 - the switch",
+      "hl": [
+        "Gemini",
+        "card"
+      ],
+      "mood": "worried",
+      "gesture": "point"
+    },
+    {
+      "text": "Researchers found two thousand eight hundred and sixty-three of these keys, live, on public websites.",
+      "scene": "counter",
+      "section": "03 - the switch",
+      "hl": [
+        "live"
+      ],
+      "mood": "shocked"
+    },
+    {
+      "text": "And new keys? Unrestricted by default.",
+      "scene": "unrestricted",
+      "section": "04 - the defaults",
+      "hl": [
+        "Unrestricted"
+      ],
+      "mood": "smirk",
+      "gesture": "palm"
+    },
+    {
+      "text": "Your spend cap won't save you either. Google's own docs say billing can lag about ten minutes, so you blow right past it.",
+      "scene": "cap",
+      "section": "04 - the defaults",
+      "hl": [
+        "cap",
+        "ten",
+        "past"
+      ],
+      "mood": "worried"
+    },
+    {
+      "text": "On Supabase with row level security off? Anyone can read your users table. Over a hundred and seventy Lovable apps shipped like that.",
+      "scene": "table",
+      "section": "05 - the database",
+      "hl": [
+        "Anyone",
+        "seventy"
+      ],
+      "mood": "neutral",
+      "gesture": "point",
+      "bg": "red"
+    },
+    {
+      "text": "And Google's answer to that eighty-two thousand dollar bill?",
+      "scene": "support",
+      "section": "06 - the answer",
+      "hl": [
+        "answer"
+      ],
+      "mood": "neutral",
+      "pause": 0.22
+    },
+    {
+      "text": "Shared responsibility.",
+      "scene": "support",
+      "section": "06 - the answer",
+      "hl": [
+        "responsibility"
+      ],
+      "mood": "smirk",
+      "pause": 0.1
+    },
+    {
+      "text": "Translation: it's your bill.",
+      "scene": "support",
+      "section": "06 - the answer",
+      "hl": [
+        "your",
+        "bill"
+      ],
+      "mood": "smirk",
+      "gesture": "palm",
+      "pause": 0.22
+    },
+    {
+      "text": "Send this video to Claude and ask it to lock down every key. Or copy the prompt from the caption.",
+      "scene": "prompt_unlock",
+      "section": "07 - the prompt",
+      "hl": [
+        "lock",
+        "prompt"
+      ],
+      "mood": "happy",
+      "gesture": "point"
+    },
+    {
+      "text": "By the way, following me is cheaper than your next API bill.",
+      "scene": "follow",
+      "section": "07 - the prompt",
+      "hl": [
+        "cheaper"
+      ],
+      "mood": "happy",
+      "gesture": "wave"
+    }
+  ]
+}

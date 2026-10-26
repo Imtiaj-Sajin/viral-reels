@@ -1,0 +1,227 @@
+{
+  "id": "ep02_db_cooper_v2",
+  "episode": 2,
+  "comp": "Mystery2",
+  "voice": "en-US-BrianMultilingualNeural",
+  "rate": "+20%",
+  "gap": 0.1,
+  "case": "case 01 · flight 305",
+  "pill_locked": "the clue · at the end",
+  "pill_open": "the clue",
+  "unlock_scene": "money_found",
+  "cover": [
+    "HE JUMPED",
+    "OUT OF A PLANE.",
+    "THEY NEVER",
+    "FOUND HIM."
+  ],
+  "lines": [
+    {
+      "text": "In 1971, a man hijacked a plane, took two hundred thousand dollars, and jumped out into the night.",
+      "scene": "hook",
+      "hl": [
+        "hijacked",
+        "jumped"
+      ],
+      "mood": "shocked",
+      "gesture": "hands"
+    },
+    {
+      "text": "The FBI chased him for forty-five years, and never even learned his name.",
+      "scene": "unsolved",
+      "hl": [
+        "never",
+        "name"
+      ],
+      "mood": "worried"
+    },
+    {
+      "text": "But nine years later, a kid found some of the money. And it made everything stranger.",
+      "scene": "clue_locked",
+      "hl": [
+        "kid",
+        "stranger"
+      ],
+      "mood": "smirk",
+      "gesture": "point"
+    },
+    {
+      "text": "Thanksgiving Eve. A quiet man in a dark suit buys a twenty-dollar ticket with cash, and signs it Dan Cooper.",
+      "scene": "ticket",
+      "section": "01 · the ticket",
+      "hl": [
+        "cash",
+        "Cooper"
+      ],
+      "mood": "neutral"
+    },
+    {
+      "text": "He sits in the last row, and hands the flight attendant a note.",
+      "scene": "seat",
+      "section": "01 · the ticket",
+      "hl": [
+        "note"
+      ],
+      "mood": "neutral",
+      "gesture": "palm"
+    },
+    {
+      "text": "She thinks it's his phone number.",
+      "scene": "purse",
+      "section": "02 · the note",
+      "hl": [
+        "phone"
+      ],
+      "mood": "smirk",
+      "pause": 0.25
+    },
+    {
+      "text": "So he whispers: Miss, you'd better look at that note. I have a bomb.",
+      "scene": "note",
+      "section": "02 · the note",
+      "hl": [
+        "bomb"
+      ],
+      "mood": "worried",
+      "pause": 0.25
+    },
+    {
+      "text": "In his briefcase: red cylinders and wires.",
+      "scene": "briefcase",
+      "section": "02 · the note",
+      "hl": [
+        "red",
+        "wires"
+      ],
+      "mood": "shocked"
+    },
+    {
+      "text": "He demands two hundred thousand dollars, and four parachutes.",
+      "scene": "demands",
+      "section": "03 · the demands",
+      "hl": [
+        "parachutes"
+      ],
+      "mood": "neutral",
+      "gesture": "point",
+      "tally": 200000
+    },
+    {
+      "text": "He gets it all, in twenties. The FBI photographs every serial number.",
+      "scene": "money",
+      "section": "03 · the demands",
+      "hl": [
+        "serial"
+      ],
+      "mood": "neutral"
+    },
+    {
+      "text": "Then he orders the pilots to Mexico City. Low, slow, landing gear down.",
+      "scene": "flightmap",
+      "section": "04 · the jump",
+      "hl": [
+        "Mexico",
+        "slow"
+      ],
+      "mood": "neutral",
+      "gesture": "palm"
+    },
+    {
+      "text": "Somewhere over the forests of Washington, in the rain, in a trench coat and loafers, he lowers the rear stairs, and jumps.",
+      "scene": "jump",
+      "section": "04 · the jump",
+      "hl": [
+        "rain",
+        "jumps"
+      ],
+      "mood": "worried",
+      "pause": 0.35
+    },
+    {
+      "text": "He was never seen again.",
+      "scene": "black",
+      "section": "04 · the jump",
+      "hl": [
+        "never"
+      ],
+      "mood": "worried",
+      "pause": 0.4,
+      "nopresenter": true
+    },
+    {
+      "text": "No body. No parachute. Not one bill was ever spent.",
+      "scene": "search",
+      "section": "05 · the search",
+      "hl": [
+        "body",
+        "parachute",
+        "spent"
+      ],
+      "mood": "neutral"
+    },
+    {
+      "text": "And one of his parachutes was a dummy, sewn shut. It vanished with him.",
+      "scene": "dummy",
+      "section": "05 · the search",
+      "hl": [
+        "dummy",
+        "vanished"
+      ],
+      "mood": "shocked",
+      "gesture": "point"
+    },
+    {
+      "text": "Then, in 1980, an eight-year-old digging on a riverbank pulls out almost six thousand dollars of the ransom, still in rubber bands.",
+      "scene": "money_found",
+      "section": "06 · the clue",
+      "hl": [
+        "six",
+        "rubber"
+      ],
+      "mood": "shocked",
+      "gesture": "hands"
+    },
+    {
+      "text": "Miles from the forest. Nobody has ever proven how it got there.",
+      "scene": "river",
+      "section": "06 · the clue",
+      "hl": [
+        "Miles",
+        "proven"
+      ],
+      "mood": "worried"
+    },
+    {
+      "text": "The other hundred and ninety thousand? Never found.",
+      "scene": "missing",
+      "section": "06 · the clue",
+      "hl": [
+        "Never"
+      ],
+      "mood": "smirk",
+      "tally": 194200
+    },
+    {
+      "text": "In 2016, the FBI gave up. It's still the only unsolved hijacking in airline history.",
+      "scene": "closed",
+      "section": "07 · unsolved",
+      "hl": [
+        "only",
+        "unsolved"
+      ],
+      "mood": "neutral",
+      "gesture": "palm"
+    },
+    {
+      "text": "So, did Dan Cooper survive? Comment your theory, and follow for more cases nobody solved.",
+      "scene": "cta",
+      "section": "07 · unsolved",
+      "hl": [
+        "survive",
+        "follow"
+      ],
+      "mood": "happy",
+      "gesture": "point"
+    }
+  ]
+}
